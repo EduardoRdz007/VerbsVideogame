@@ -11,7 +11,25 @@ const verbs = [
     'close',
     'dance',
     'stop',
-
+    'visit',
+    'use',
+    'listen',
+    'invite',
+    'sing',
+    'miss',
+    'order',
+    'cook',
+    'stretch',
+    'extend',
+    'tighten',
+    'start',
+    'study',
+    'stay',
+    'snore',
+    'crash',
+    'diving',
+    'jump',
+    'hang'
 ]
 
 const verbos = [
@@ -26,6 +44,25 @@ const verbos = [
     'correr',
     'cerrar',
     'bailar',
-    'alto'
+    'alto',
+    'visitar',
+    'usar',
+    'escuchar',
+    'invitar',
+    'cantar',
+    'extrañar',
+    'ordenar',
+    'cocinar',
+    'estirar',
+    'extender',
+    'apretar',
+    'iniciar',
+    'estudiar',
+    'quedarse',
+    'roncar',
+    'chocar',
+    'bucear',
+    'brincar',
+    'colgar'
 
 ]   
