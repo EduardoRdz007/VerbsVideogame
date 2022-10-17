@@ -107,7 +107,6 @@ function ponerVerbo(){
     allRightCounter.innerHTML = "Right answers: "+rightAnswersCounter;
     showVerb.innerHTML = verbs[randomPosition];
     showImage.innerHTML = imgText;
-
     showAudio.src = "audio/"+verbs[randomPosition]+".mp3";
     showAudio.play();
 
