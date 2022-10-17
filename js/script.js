@@ -95,11 +95,11 @@ function ponerVerbo(){
   answerRoullete = shuffleAnswers(answerRoullete);
 
   let randomPosition = everyNumberOfVerbs[lastPosition];
-  let imgText = "<img src='img/"+verbs[randomPosition]+".jpg' height:'140px' width='100px'>";
-  first.classList.add("btn","btn-outline-primary","btn-md");
-  second.classList.add("btn","btn-outline-primary","btn-md");
-  third.classList.add("btn","btn-outline-primary","btn-md");
-  fourth.classList.add("btn","btn-outline-primary","btn-md");
+  let imgText = "<img src='img/"+verbs[randomPosition]+".jpg' height:'150px' width='150px'>";
+  first.classList.add("btn","btn-dark","btn-lg",);
+  second.classList.add("btn","btn-dark","btn-lg");
+  third.classList.add("btn","btn-dark","btn-lg");
+  fourth.classList.add("btn","btn-dark","btn-lg");
 
   if (lastPosition >= 0){
     var just_position = lastPosition+1;
